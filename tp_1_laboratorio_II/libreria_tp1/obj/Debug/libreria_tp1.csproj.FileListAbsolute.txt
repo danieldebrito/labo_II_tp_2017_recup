@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\libreria_tp1\obj\Debug\libreria_tp1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\libreria_tp1\bin\Debug\libreria_tp1.dll
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\libreria_tp1\bin\Debug\libreria_tp1.pdb
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\libreria_tp1\obj\Debug\libreria_tp1.dll
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\libreria_tp1\obj\Debug\libreria_tp1.pdb
