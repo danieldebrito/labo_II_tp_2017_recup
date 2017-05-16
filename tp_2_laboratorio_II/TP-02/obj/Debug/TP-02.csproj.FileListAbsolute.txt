@@ -25,3 +25,16 @@ D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-
 D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.exe.config
 D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.exe
 D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.exe
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\bin\Debug\TP-02.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\bin\Debug\Entidades.dll
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\bin\Debug\Entidades.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
