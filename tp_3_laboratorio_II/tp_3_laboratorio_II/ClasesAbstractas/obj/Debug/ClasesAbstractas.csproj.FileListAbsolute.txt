@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\Excepciones.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\Excepciones.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\bin\Debug\Excepciones.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

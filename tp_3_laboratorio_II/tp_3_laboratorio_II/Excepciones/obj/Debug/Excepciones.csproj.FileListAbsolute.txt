@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Excepciones\obj\Debug\Excepciones.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\Excepciones\bin\Debug\Excepciones.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\Excepciones\bin\Debug\Excepciones.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\Excepciones\obj\Debug\Excepciones.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_3_laboratorio_II\tp_3_laboratorio_II\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Enumerados\bin\Debug\Enumerados.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Enumerados\bin\Debug\Enumerados.pdb
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Enumerados\obj\Debug\Enumerados.dll
+C:\Users\Daniel\Desktop\tp_3_laboratorio_II\Enumerados\obj\Debug\Enumerados.pdb

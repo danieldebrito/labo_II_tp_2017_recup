@@ -1,0 +1,267 @@
+ #region main
+            //Universidad gim = new Universidad();
+            //Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
+            //Alumno.EEstadoCuenta.Becado);
+            //gim += a1;
+            //try
+            //{
+            //    Alumno a2 = new Alumno(2, "Juana", "Martinez", "12234458",
+            //    EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Programacion,
+            //    Alumno.EEstadoCuenta.Deudor);
+            //    gim += a2;
+            //}
+            //catch (NacionalidadInvalidaException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //try
+            //{
+            //    Alumno a3 = new Alumno(3, "José", "Gutierrez", "12234456",
+            //    EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
+            //    Alumno.EEstadoCuenta.Becado);
+            //    gim += a3;
+            //}
+            //catch (AlumnoRepetidoException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //Alumno a4 = new Alumno(4, "Miguel", "Hernandez", "92264456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Legislacion,
+            //Alumno.EEstadoCuenta.AlDia);
+            //gim += a4;
+            //Alumno a5 = new Alumno(5, "Carlos", "Gonzalez", "12236456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
+            //Alumno.EEstadoCuenta.AlDia);
+            //gim += a5;
+            //Alumno a6 = new Alumno(6, "Juan", "Perez", "12234656",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
+            //Alumno.EEstadoCuenta.Deudor);
+            //gim += a6;
+            //Alumno a7 = new Alumno(7, "Joaquin", "Suarez", "91122456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Programacion,
+            //Alumno.EEstadoCuenta.AlDia);
+            //gim += a7;
+            //Alumno a8 = new Alumno(8, "Rodrigo", "Smith", "22236456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion,
+            //Alumno.EEstadoCuenta.AlDia);
+            //gim += a8;
+            //Profesor i1 = new Profesor(1, "Juan", "Lopez", "12234456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino);
+            //gim += i1;
+            //Profesor i2 = new Profesor(2, "Roberto", "Juarez", "32234456",
+            //EntidadesAbstractas.Persona.ENacionalidad.Argentino);
+            //gim += i2;
+            //try
+            //{
+            //    gim += Universidad.EClases.Programacion;
+            //}
+            //catch (SinProfesorException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //try
+            //{
+            //    gim += Universidad.EClases.Programacion;
+            //}
+            //catch (SinProfesorException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //try
+            //{
+            //    gim += Universidad.EClases.Legislacion;
+            //}
+            //catch (SinProfesorException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //try
+            //{
+            //    gim += Universidad.EClases.SPD;
+            //}
+            //catch (SinProfesorException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //Console.WriteLine(gim.ToString());
+            //Console.ReadKey();
+            //Console.Clear();
+            //try
+            //{
+            //    Universidad.Guardar(gim);
+            //    Console.WriteLine("Archivo de Universidad guardado.");
+            //}
+            //catch (ArchivosException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //try
+            //{
+            //    int jornada = 0;
+            //    Jornada.Guardar(gim[jornada]);
+            //    Console.WriteLine("Archivo de Jornada {0} guardado.", jornada);
+            //    //Console.WriteLine(Jornada.Leer());
+            //}
+            //catch (ArchivosException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            #endregion
+
+            #region alumno test
+            //#region dni invalido
+            //Console.WriteLine("Excepcion dni invalido: \n");
+            //try
+            //{
+            //    Alumno a1 = new Alumno(45, "Adrian", "Dargelos", "24o58785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD);
+            //    Console.WriteLine(a1.ToString());
+            //}
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //Console.ReadKey();
+            //Console.Clear();
+            //#endregion
+            //#region nacionalidad envalida
+
+            //Console.WriteLine("Excepcion nacionalidad invalida: \n");
+            //try
+            //{
+            //    Alumno a2 = new Alumno(45, "Adrian", "Dargelos", "24258785", Persona.ENacionalidad.Extranjero, Universidad.EClases.SPD);
+            //    Console.WriteLine(a2.ToString());
+            //}
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+
+
+
+            //Console.ReadKey();
+            //Console.Clear();
+            //#endregion
+            //#region persona ok, con formato de Nombre"
+            //Console.WriteLine("Persona ok: \n");
+            //try
+            //{
+            //    Alumno a3 = new Alumno(45, "ADriAN", "daRGeLos", "24258785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD);
+            //    Console.WriteLine(a3.ToString());
+            //}
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //Console.ReadKey();
+            //Console.Clear();
+            //#endregion
+            //#region alumno test
+
+            //Alumno a4 = new Alumno(45, "ADriAN", "daRGeLos", "24258785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD,Alumno.EEstadoCuenta.AlDia);
+            //Alumno a5 = new Alumno(45, "ADriAN", "daRGeLos", "24258785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.Becado);
+            //Alumno a6 = new Alumno(33, "ADriAN", "daRGeLos", "24254785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD,Alumno.EEstadoCuenta.Deudor);
+
+            //Console.WriteLine(a4.ToString());
+            //Console.WriteLine(a5.ToString());
+            //Console.WriteLine(a6.ToString());
+
+            //if(a5 == a4)
+            //    Console.WriteLine(" a5 y a4 son iguales");
+            //if(a4 != a6)
+            //    Console.WriteLine(" a4 y a6 son distintos");
+            
+            //if (a4 == Universidad.EClases.SPD)
+            //    Console.WriteLine(" a5 == Universidad.EClases.SPD");
+            //if (a6 != Universidad.EClases.Programacion)
+            //    Console.WriteLine(" a6 != Universidad.EClases.Programacion");
+
+            //Console.ReadKey();
+            //Console.Clear();
+            //#endregion
+            #endregion
+            #region profesor test
+            //Profesor p0 = new Profesor(89, "Frank", "Zappa", "3688664", Persona.ENacionalidad.Argentino);
+
+            //Console.WriteLine(p0.ToString());
+
+            //if(p0 == Universidad.EClases.SPD)
+            //    Console.WriteLine("puede dar la clase");
+            //else
+            //    Console.WriteLine("no puede dar la clase");
+
+            //Console.WriteLine(p0.ToString());
+
+            //Console.ReadKey();
+            //Console.Clear();
+            #endregion
+            #region jornada
+           // Profesor p0 = new Profesor(89, "Frank", "Zappa", "3688664", Persona.ENacionalidad.Argentino);
+
+           // Jornada j = new Jornada(Universidad.EClases.SPD, p0);
+            
+           // Alumno a4 = new Alumno(45, "ADriAN", "daRGeLos", "24258785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.AlDia);
+           // Alumno a5 = new Alumno(45, "ADriAN", "daRGeLos", "24258785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.Becado);
+           // Alumno a6 = new Alumno(33, "ADriAN", "daRGeLos", "24254785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.AlDia);
+
+           // j += a4;
+           // try
+           // {
+           //     j += a4;
+           // }
+           // catch (AlumnoRepetidoExcepcion e)
+           // {
+           //     Console.WriteLine(e.Message);
+           // }
+
+           //// j += a6;
+
+           // Console.WriteLine(j.ToString());
+
+           // Console.ReadKey();
+           // Console.Clear();
+            #endregion  
+            #region universidad
+
+            //Universidad u = new Universidad();
+
+            //Profesor p0 = new Profesor(89, "Frank", "Zappa", "3688664", Persona.ENacionalidad.Argentino);
+            //Profesor p1 = new Profesor(88, "david", "bowie", "3645864", Persona.ENacionalidad.Argentino);
+            //Profesor p2 = new Profesor(87, "lou", "reed", "3612544", Persona.ENacionalidad.Argentino);
+            //Profesor p3 = new Profesor(86, "joey", "ramone", "3459874", Persona.ENacionalidad.Argentino);
+            //Profesor p4 = new Profesor(85, "juana", "molina", "3674154", Persona.ENacionalidad.Argentino);
+
+            //Alumno a1 = new Alumno(33, "ADriAN", "daRGeLos", "24254785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.AlDia);
+            //Alumno a2 = new Alumno(35, "diego", "rodriquez", "24245885", Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.AlDia);
+            //Alumno a3 = new Alumno(36, "diego", "castellano", "24852145", Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.AlDia);
+            //Alumno a4 = new Alumno(37, "diego", "tuñon", "24487785", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.Deudor);
+            //Alumno a5 = new Alumno(48, "mariano", "dominguez", "27845785", Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion, Alumno.EEstadoCuenta.AlDia);
+            //Alumno a6 = new Alumno(49, "gabriel", "manelli", "24236585", Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion, Alumno.EEstadoCuenta.Becado);
+            //Alumno a7 = new Alumno(31, "walter", "kebleris", "24274185", Persona.ENacionalidad.Argentino, Universidad.EClases.SPD, Alumno.EEstadoCuenta.AlDia);
+            
+            //u += p0;
+            //u += p1;
+            //u += p2;
+            //u += p3;
+            //u += p4;
+
+            //u += a1;
+            //u += a2;
+            //u += a3;
+            //u += a4;
+            //u += a5;
+            //u += a6;
+            //u += a7;
+            
+            //u += Universidad.EClases.Programacion;
+
+            //Profesor p = u == Universidad.EClases.Programacion;
+
+            //Console.WriteLine(p.ToString());
+            
+            
+            //Console.WriteLine(u.ToString());
+            
+            //Console.ReadKey();
+            //Console.Clear();
+            #endregion
