@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\bin\Debug\formCalculadora.exe.config
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\bin\Debug\formCalculadora.exe
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\bin\Debug\formCalculadora.pdb
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\bin\Debug\libreria_tp1.dll
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\bin\Debug\libreria_tp1.pdb
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.Calculadora.resources
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.Properties.Resources.resources
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.exe
+C:\Users\Daniel\Desktop\tp_1_laboratorio_II\formCalculadora\obj\Debug\formCalculadora.pdb

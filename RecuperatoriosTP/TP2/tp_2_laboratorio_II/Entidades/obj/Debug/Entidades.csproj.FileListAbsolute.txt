@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\Entidades\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\Entidades\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\tps\2017\tp_2_laboratorio_II\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\Entidades\bin\Debug\Entidades.dll
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\Entidades\bin\Debug\Entidades.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.dll
+D:\programacion\git hub\tp_laboratorio_2\tp_2_laboratorio_II\Entidades\obj\Debug\Entidades.pdb
